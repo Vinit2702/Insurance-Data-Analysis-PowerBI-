@@ -21,6 +21,6 @@ A dynamic Power BI dashboard built to explore insurance data—highlighting poli
 
 📊 Screenshot
 
-![Insurance Dashboard Screenshot]([https://your-image-host.com/image-name.png](https://github.com/Vinit2702/Insurance-Data-Analysis-PowerBI-/blob/main/Insurance%20data%20analysis.png))
+![Insurance Dashboard Screenshot](https://github.com/Vinit2702/Insurance-Data-Analysis-PowerBI-/blob/main/Insurance%20data%20analysis.png)
 
 
