@@ -1,4 +1,4 @@
-🔬 🔍 EDA-Driven Insights on Laptop Prices with Light Modeling
+🔬 🔍 Insurance Data Analysis
 
 A dynamic Power BI dashboard built to explore insurance data—highlighting policy trends, premium distributions, claim statuses, age-wise segmentation, and customer activity for actionable business insights.
 
